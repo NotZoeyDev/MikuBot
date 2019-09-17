@@ -1,0 +1,16 @@
+{
+	"name": "miku-bot",
+	"description": "A music bot for Discord.",
+	"version": "1.0.0",
+	"homepage": "https://mikubot.panties.moe",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/NotZoeyDev/MikuBot"
+	},
+	"dependencies": {
+		"discord.js": "^11.5.1",
+		"node-opus": "^0.3.2",
+		"youtube-search": "^1.1.4",
+		"ytdl-core": "^0.29.7"
+	}
+}
